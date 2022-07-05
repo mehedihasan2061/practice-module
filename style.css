@@ -101,13 +101,17 @@ h1{
     background-color: black;
     margin-top: 50px;
     color: gray;
-    height: 200px;
-    margin: 0 auto;
+    height: 150px;
     align-items: center;
+    padding-left: 400px;
+    padding-top: 50px;
+    
+    
     
 }
 .text{
     color: white;
+    font-size: 15px;
 }
 
 
