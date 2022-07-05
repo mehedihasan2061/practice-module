@@ -19,6 +19,7 @@ h1{
 .half-width{
     width: 40%;
     margin-left: 50px;
+    margin-top: 20px;
 }
 .half-width img{
     width: 400px;
@@ -27,6 +28,7 @@ h1{
     border: 1px solid gray;
     background-image: linear-gradient(rgb(237, 65, 46),tomato);
     padding: 10px 40px;
+    margin-top: 20px;
     border-radius: 15px;
     color: white;
     font-weight: 800;
@@ -92,6 +94,7 @@ h1{
     padding-top: 50px;
     padding-right: 20px;
     padding-left: 25px;
+    border-radius: 10px;
 }
 
 .footer-section{
